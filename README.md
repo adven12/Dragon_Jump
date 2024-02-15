@@ -3,8 +3,8 @@
 
 # **Overview**<br />
 This is second game for my portfolio. It's remake of the classic Doodle Jump.
-
-![image](https://github.com/adven12/Snake_Battle/blob/master/Data/ImagesReadme/4.PNG)
+https://github.com/adven12/Dragon_Jump/tree/master/Data/ImagesReadme
+![image](https://github.com/adven12/Dragon_Jump/tree/master/Data/ImagesReadme/4.PNG)
 
 ## **Game controls (in menu):**<br />
 Arrow up -> Move cursor to upper item<br />
