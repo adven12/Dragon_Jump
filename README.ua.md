@@ -1,4 +1,4 @@
-[[![en](https://img.shields.io/badge/Language-English-red.svg)](https://github.com/adven12/Dragon_Jump/blob/master/README.md)
+[![en](https://img.shields.io/badge/Language-English-red.svg)](https://github.com/adven12/Dragon_Jump/blob/master/README.md)
 [![ua](https://img.shields.io/badge/Language-Ukrainian-green.svg)](https://github.com/adven12/Dragon_Jump/blob/master/README.ua.md)
 
 # **Огляд**<br />
