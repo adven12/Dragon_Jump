@@ -17,4 +17,4 @@ Also, you can change the window size from the command-line e.g.: DragonJump -win
 
 ![image](https://github.com/adven12/Dragon_Jump/blob/master/Data/ImagesReadme/1.PNG)
 
-I used simple framework for the drawing. This source code doesn't have these files, so you can't run the project.
+I used simple framework for the drawing. Source code doesn't have these files, so you can't run the project.
